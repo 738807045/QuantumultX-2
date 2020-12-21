@@ -1,0 +1,18 @@
+# NAME: SteamCN
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATE: 2020-11-19 17:35:18
+# HOST-SUFFIX: 13
+# TOTAL: 13
+HOST-SUFFIX,csgo.wmsj.cn,🇨🇳 回国
+HOST-SUFFIX,dl.steam.ksyna.com,🇨🇳 回国
+HOST-SUFFIX,dota2.wmsj.cn,🇨🇳 回国
+HOST-SUFFIX,st.dl.bscstorage.net,🇨🇳 回国
+HOST-SUFFIX,st.dl.eccdnx.com,🇨🇳 回国
+HOST-SUFFIX,st.dl.pinyuncloud.com,🇨🇳 回国
+HOST-SUFFIX,steamcdn-a.akamaihd.net,🇨🇳 回国
+HOST-SUFFIX,steamcontent.com,🇨🇳 回国
+HOST-SUFFIX,steamgames.com,🇨🇳 回国
+HOST-SUFFIX,steampowered.com.8686c.com,🇨🇳 回国
+HOST-SUFFIX,steamstat.us,🇨🇳 回国
+HOST-SUFFIX,steamstatic.com,🇨🇳 回国
+HOST-SUFFIX,steamusercontent.com,🇨🇳 回国
