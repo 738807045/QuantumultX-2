@@ -1,0 +1,17 @@
+# NAME: Wikipedia
+# GITHUB: https://github.com/blackmatrix7/ios_rule_script
+# UPDATE: 2020-11-19 17:35:19
+# HOST-SUFFIX: 12
+# TOTAL: 12
+HOST-SUFFIX,mediawiki.org,Google
+HOST-SUFFIX,wikibooks.org,Google
+HOST-SUFFIX,wikidata.org,Google
+HOST-SUFFIX,wikileaks.org,Google
+HOST-SUFFIX,wikimedia.org,Google
+HOST-SUFFIX,wikinews.org,Google
+HOST-SUFFIX,wikipedia.org,Google
+HOST-SUFFIX,wikiquote.org,Google
+HOST-SUFFIX,wikisource.org,Google
+HOST-SUFFIX,wikiversity.org,Google
+HOST-SUFFIX,wikivoyage.org,Google
+HOST-SUFFIX,wiktionary.org,Google
