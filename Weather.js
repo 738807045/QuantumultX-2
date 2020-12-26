@@ -7,7 +7,7 @@ const AirQualityStandard = {
 let body = JSON.parse($response.body); 
 
 // 选定 AQI 标准(默认 AQI-US)
-body.air_quality.airQualityScale = AirQualityStandard.US;
+body.air_quality.airQualityScale = AirQualityStandard.CN;
 
 body = JSON.stringify(body);
 $done({body});
