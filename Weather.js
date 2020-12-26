@@ -1,5 +1,5 @@
 //https://weather-data.apple.com/v1/weather/[\w-_]+/[0-9]+\.[0-9]+/[0-9]+\.[0-9]+\?include= url script-response-body https://raw.githubusercontent.com/General74110/QuantumultX/main/Weather.js
-//hostname = weather-data.apple.com
+hostname = weather-data.apple.com
 
 // AQI 标准
 const AirQualityStandard = {
