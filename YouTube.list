@@ -1,22 +1,17 @@
-# NAME: YouTube
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-11-19 17:35:18
-# USER-AGENT: 5
-# HOST-SUFFIX: 6
-# HOST: 2
-# HOST-KEYWORD: 1
-# TOTAL: 14
-HOST,youtubei.googleapis.com,YouTube
-HOST,yt3.ggpht.com,YouTube
-HOST-SUFFIX,app-measurement.com,YouTube
-HOST-SUFFIX,googlevideo.com,YouTube
-HOST-SUFFIX,gvt2.com,YouTube
-HOST-SUFFIX,youtu.be,YouTube
-HOST-SUFFIX,youtube.com,YouTube
-HOST-SUFFIX,ytimg.com,YouTube
-HOST-KEYWORD,youtube,YouTube
-USER-AGENT,*youtube*,YouTube
-USER-AGENT,com.google.ios.youtube*,YouTube
-USER-AGENT,com.google.ios.youtubemusic*,YouTube
-USER-AGENT,youtube*,YouTube
-USER-AGENT,youtubemusic*,YouTube
+#YouTube
+HOST, googleapis.com, 🎬 YouTube
+HOST, yt3.ggpht.com, 🎬 YouTube
+HOST-SUFFIX, app-measurement.com, 🎬 YouTube
+host-suffix, googlevideo.com, 🎬 YouTube
+HOST-SUFFIX, gvt2.com, 🎬 YouTube
+HOST-SUFFIX, youtu.be, 🎬 YouTube
+HOST-SUFFIX, youtube.com, 🎬 YouTube
+HOST-SUFFIX, ytimg.com, 🎬 YouTube
+HOST-KEYWORD, youtube, 🎬 YouTube
+USER-AGENT, *youtube*, 🎬 YouTube
+USER-AGENT, com.google.ios.youtube*, 🎬 YouTube
+USER-AGENT, com.google.ios.youtubemusic*, 🎬 YouTube
+USER-AGENT, youtube*, 🎬 YouTube
+USER-AGENT, youtubemusic*, 🎬 YouTube
+#去掉YouTube++底部广告
+host-suffix, ehg-youtube.hitbox.com, 🎬 YouTube
