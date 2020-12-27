@@ -1,0 +1,4 @@
+#绕过企业证书过期
+host, ocsp.apple.com, reject
+host-suffix, ocsp.digicert.com, reject
+host, ppq.apple.com, reject
