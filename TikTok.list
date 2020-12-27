@@ -10,3 +10,4 @@ HOST-SUFFIX,tiktokcdn.com,TikTok
 HOST-SUFFIX,tiktokv.com,TikTok
 HOST-KEYWORD,-tiktokcdn-com,TikTok
 USER-AGENT,tiktok*,TikTok
+HOST,client_monitor.isnssdk.com,TikTok
