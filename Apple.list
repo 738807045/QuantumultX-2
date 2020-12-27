@@ -166,3 +166,7 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 IP-CIDR,63.92.224.0/19,Apple
 IP-CIDR,65.199.22.0/23,Apple
+#App Store
+host, p14-buy.itunes.apple.com,  苹果服务
+# Apple News
+host-suffix, apple.news,  苹果服务
