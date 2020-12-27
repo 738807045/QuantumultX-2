@@ -1,0 +1,9 @@
+//新加坡
+HOST-SUFFIX, com.sg, 新加坡
+HOST-SUFFIX, net.sg, 新加坡
+HOST-SUFFIX, org.sg, 新加坡
+HOST-SUFFIX, gov.sg, 新加坡
+HOST-SUFFIX, edu.sg, 新加坡
+HOST-SUFFIX, per.sg, 新加坡
+HOST-SUFFIX, idn.sg, 新加坡
+HOST-KEYWORD, .sg, 新加坡
