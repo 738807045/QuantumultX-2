@@ -31,6 +31,9 @@ obj= {
     "pricePerMonth": 900,
     "sendCoupons": 0
   },
-  "freeBookIds": ["352681"]
+  "freeBookIds": ["352681"],
+"timestamp": 1585386150,
+  "random": 8446,
+  "signature": "710a5a194c33c034bb75d617ab5034d1eb98868ae307289e3a84e173c4ab5b67"
   }
 $done({body: JSON.stringify(obj)});
