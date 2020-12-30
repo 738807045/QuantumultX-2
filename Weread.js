@@ -7,7 +7,6 @@ MITM
 hostname:i.weread.qq.com
 -----------------将军℡--------------------
 */
-var obj = JSON.parse($response.body);
 obj= {
   "startTime": 1585386150,
   "expiredTime": 3043041983,
@@ -33,4 +32,5 @@ obj= {
   },
   "freeBookIds": ["352681"]
   }
-$done({body: JSON.stringify(obj)});
+body = JSON.stringify(obj);
+$done(body);
