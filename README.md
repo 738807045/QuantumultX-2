@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/General74110/QuantumultX/main/Adblock.js
 YouTube
 https://raw.githubusercontent.com/General74110/QuantumultX/main/YouTube.conf
 
+解锁Toktik锁区
+https://raw.githubusercontent.com/General74110/QuantumultX/main/TikTokJP.sgmodule(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
+
 //分流
 
 维基百科
