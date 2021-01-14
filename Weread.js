@@ -32,8 +32,6 @@ obj= {
     "sendCoupons": 0
   },
   "freeBookIds": ["352681"]
-  "timestamp": 1603940203,
-  "random": 8341,
-  "signature": "5d7f6c929086a4a958ead60c9bd95fae6991afef51c1de50a41e7c2641fdaf3f"
-  }
-$done({body: JSON.stringify(obj)});
+}
+body = JSON.stringify(obj);
+$done(body);
