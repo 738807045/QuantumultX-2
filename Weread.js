@@ -34,7 +34,7 @@ obj= {
     "buttonTitle": "付费无限卡9元/月 · 限时特惠",
     "buttonSubtitle": "你正在使用免费无限卡 · 升级付费无限卡即可阅读"
   },
-  "freeBookIds": [],
+  "freeBookIds": ["352681"],
   "timestamp": 1603940203,
   "random": 8341,
   "signature": "5d7f6c929086a4a958ead60c9bd95fae6991afef51c1de50a41e7c2641fdaf3f"
