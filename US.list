@@ -1,6 +1,5 @@
 //美国
 HOST-SUFFIX, usa.gov, 美国
 HOST-KEYWORD, .usa, 美国
-HOST-KEYWORD, .gov, 美国
 HOST-KEYWORD, .mil, 美国
 HOST-KEYWORD, .edu, 美国
