@@ -1,7 +1,7 @@
 #YouTube
 HOST, googleapis.com, 🎬 YouTube
 HOST, yt3.ggpht.com, 🎬 YouTube
-HOST-SUFFIX, app-measurement.com, 🎬 YouTube
+#HOST-SUFFIX, app-measurement.com, 🎬 YouTube
 host-suffix, googlevideo.com, 🎬 YouTube
 HOST-SUFFIX, gvt2.com, 🎬 YouTube
 HOST-SUFFIX, youtu.be, 🎬 YouTube
