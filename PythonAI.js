@@ -1,6 +1,6 @@
 /*圈叉配置写法
 rewrite_local
-#通杀一般订阅
+#无限试用
 ^http:\/\/ws\.60he\.com\/user* url script-response-body PythonAI.js
 
 ^http:\/\/ws\.60he\.com\/book* url script-response-body PythonAI.js
