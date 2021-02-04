@@ -974,3 +974,7 @@ https://cluster\.awmserve\.com/incstage/min_exec_pt.js.* url reject
 ^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+?(?>ad|log)_ url reject
 ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ url reject
 ^https?:\/\/zt-app\.go189\.cn\/zt-app\/welcome\/.*?Animation url reject
+
+#tieba
+^http:\/\/mobads\.baidu\.com\/cpro\/ui\/mads\.php\? url reject-200
+^http:\/\/wn\.pos\.baidu\.com\/adx\.php\? url reject-200
