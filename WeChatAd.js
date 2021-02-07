@@ -13,42 +13,7 @@ hostname = ads.privacy.qq.com
 
 var body = $response.body;
 obj= {
-  {
-  "rules" : [
-    {
-      "action" : "body",
-      "matchField" : "",
-      "field" : "",
-      "value" : "endTime\":\"3000-08-07 23:59:59\"",
-      "matchValue" : "endTime\":\"2021-08-07 23:59:59\"",
-      "destiontion" : "response",
-      "isRegex" : false
-    }
-  ],
-  "enabled" : true,
-  "name" : "微信广告",
-  "description" : "",
-  "locations" : [
-    {
-      "method" : "POST",
-      "scheme" : "https",
-      "enabled" : true,
-      "port" : 443,
-      "query" : "",
-      "host" : "ads.privacy.qq.com",
-      "path" : "\/optout\/add"
-    },
-    {
-      "method" : "GET",
-      "scheme" : "https",
-      "enabled" : true,
-      "port" : 443,
-      "query" : "",
-      "host" : "ads.privacy.qq.com",
-      "path" : "\/optout\/list"
-    }
-  ]
-}
+  endTime" : "3000-08-07 23:59:59";
 }
 body = JSON.stringify(obj);
 $done(body);
