@@ -11,8 +11,7 @@
 hostname = ads.privacy.qq.com
 */
 
-var obj = JSON.parse($response.body);
-obj.endTime = 3000-08-07 23:59:59;
-obj.checked : true
-delete obj.appid;
-$done({body: JSON.stringify(obj)}); 
+var body = $response.body;
+body = $response.body.replace(/\"checked\":false/, "\"checked\":true").replace(/\"endTime\":\w./, "\"endTime\":3000-01-07 23:59:59")
+body = JSON.stringify(body); // 重新打包回json字符串
+$done(body); // 结束修改
