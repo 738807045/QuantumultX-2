@@ -13,7 +13,8 @@ hostname = ads.privacy.qq.com
 
 var body = $response.body;
 obj= {
-  endTime" : "3000-08-07 23:59:59";
+  "endTime" : "3000-08-07 23:59:59";
+  "checked" : false;
 }
 body = JSON.stringify(obj);
 $done(body);
