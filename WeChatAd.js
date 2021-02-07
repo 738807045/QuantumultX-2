@@ -15,5 +15,6 @@ var body = $response.body;
 obj= {
 "checked" : "false";
 "endTime" : "3000-08-07 23:59:59";
+}
 body = JSON.stringify(obj);
 $done(body);
