@@ -13,8 +13,30 @@ hostname = ads.privacy.qq.com
 
 var body = $response.body;
 obj= {
-"checked" : "false";
-"endTime" : "3000-08-07 23:59:59";
+{
+  "code": 20000,
+  "data": [{
+    "checked": false,
+    "endTime": "3000-08-07 23:59:59",
+    "targetingType": "ALL"
+  }, {
+    "checked": false,
+    "endTime": "3000-08-07 23:59:59",
+    "targetingType": "ALL"
+  }, {
+    "checked": false,
+    "endTime": "3000-08-07 23:59:59",
+    "targetingType": "ALL"
+  }, {
+    "checked": false,
+    "endTime": "3000-08-07 23:59:59",
+    "targetingType": "ALL"
+  }, {
+    "checked": false,
+    "endTime": "3000-08-07 23:59:59",
+    "targetingType": "ALL"
+  }],
+  "message": "操作成功"
 }
 body = JSON.stringify(obj);
 $done(body);
