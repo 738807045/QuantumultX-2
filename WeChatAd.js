@@ -13,5 +13,6 @@ hostname = ads.privacy.qq.com
 
 var obj = JSON.parse($response.body);
 obj.endTime = 3000-08-07 23:59:59;
+obj.checked : true
 delete obj.appid;
 $done({body: JSON.stringify(obj)}); 
