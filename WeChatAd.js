@@ -11,9 +11,7 @@
 hostname = ads.privacy.qq.com
 */
 
-var body = $response.body;
-obj= {
-"endTime":"3000-08-07 23:59:59";
-}
-body = JSON.stringify(obj);
-$done(body);
+var obj = JSON.parse($response.body);
+obj.endTime = 3000-08-07 23:59:59;
+delete obj.appid;
+$done({body: JSON.stringify(obj)}); 
