@@ -122,4 +122,5 @@ USER-AGENT,*com.google.drive*,Google
 USER-AGENT,google.drive*,Google
 HOST-SUFFIX,notion.so,Google
 HOST-SUFFIX,intercom.io,Google
-ip-cidr, 52.10.127.183/10,Googel
+HOST-SUFFIX,loggly.com,Googel
+HOST-SUFFIX,intercomcdn.com,Google
