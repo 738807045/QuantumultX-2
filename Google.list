@@ -120,5 +120,11 @@ HOST-KEYWORD,www.google.,Google
 USER-AGENT,%e4%ba%91%e7%ab%af%e7%a1%ac%e7%9b%98*,Google
 USER-AGENT,*com.google.drive*,Google
 USER-AGENT,google.drive*,Google
+ip6-cidr,2606:4700:6812:176e/09,Google
 ip-cidr,52.39.150.139/09,Google
 ip-cidr,54.192.23.112/09,Google
+ip-cidr,54.164.8.26/09,Google
+ip-cidr,54.192.23.39/09,Googel
+ip-cidr,54.192.23.76/09,Googel
+ip-cidr,99.83.219.81/09,Googel
+ip-cidr,35.170.0.145/09,Googel
