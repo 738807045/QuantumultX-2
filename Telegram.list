@@ -18,3 +18,4 @@ ip6-cidr, 2001:67c:4e8::/48, Telegram
 ip-cidr, 99.83.168.217/22, Telegram
 ip-cidr, 196.55.215.129/22, Telegram
 ip-cidr, 91.108.56.187/22, Telegram
+ip-cidr,  5.28.194.201/09 , Telegram
