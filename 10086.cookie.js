@@ -1,8 +1,8 @@
 const cookieName = '中国移动'
-const tokenurlKey = 'chavy_tokenurl_10086'
-const tokenheaderKey = 'chavy_tokenheader_10086'
-const signurlKey = 'chavy_signurl_10086'
-const signheaderKey = 'chavy_signheader_10086'
+const tokenurlKey = 'chavy_tokenurl_中国移动'
+const tokenheaderKey = 'chavy_tokenheader_中国移动'
+const signurlKey = 'chavy_signurl_中国移动'
+const signheaderKey = 'chavy_signheader_中国移动'
 const chavy = init()
 
 const requrl = $request.url
