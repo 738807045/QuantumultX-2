@@ -125,4 +125,4 @@ HOST-SUFFIX,notion.so,Google
 HOST-SUFFIX,intercom.io,Google
 HOST-SUFFIX,loggly.com,Googel
 HOST-SUFFIX,intercomcdn.com,Google
-ip-cidr,149.129.84.249/11,Google
+ip-cidr, 149.129.84.249/11, Google
