@@ -1,8 +1,10 @@
 QuantumultX 仅供墙内使用
 
-路漫漫其修远兮，吾将上下而求索。
-
-⬆️其实都是屁话！⬆️
+            地                        恶
+            狱                        魔
+            空                        在
+            荡                        人
+            荡                        间               
 
 图标
 https://raw.githubusercontent.com/General74110/PNG/master/name.png
