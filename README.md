@@ -8,7 +8,7 @@ QuantumultX 仅供墙内使用
 
 ## 图标:
 
-* [远程图标](https://raw.githubusercontent.com/General74110/PNG/master/name.png)(链接最后自行改名，例如把 name.png改为Apple.png)
+* [远程图标](https://github.com/General74110/PNG)
 
 ## 重写:
 
