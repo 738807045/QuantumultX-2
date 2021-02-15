@@ -6,10 +6,11 @@ QuantumultX 仅供墙内使用
             荡                        人
             荡                        间               
 
-图标
-https://raw.githubusercontent.com/General74110/PNG/master/name.png
+## 图标:
 
-//脚本重写
+* [远程图标](https://raw.githubusercontent.com/General74110/PNG/master/name.png)(链接最后自行改名，例如把 name.png改为Apple.png)
+
+## 重写:
 
 * [京东淘宝比价](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/Price.conf)
 
@@ -17,10 +18,9 @@ https://raw.githubusercontent.com/General74110/PNG/master/name.png
 
 * [YouTube去广告重写](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/YouTube.conf)
 
-解锁Toktik锁区
-https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/TikTokJP.sgmodule(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
+* [解锁Toktik锁区](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/TikTokJP.sgmodule)(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
 
-//分流
+## 分流:
 
 * [维基百科](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/WiKipedia.list)
 
