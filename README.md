@@ -11,25 +11,24 @@ https://raw.githubusercontent.com/General74110/PNG/master/name.png
 
 //脚本重写
 
-京东淘宝比价
-https://raw.githubusercontent.com/General74110/QuantumultX/main/Price.conf
+* [京东淘宝比价] (https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/Price.conf)
 
 通用去广告
-https://raw.githubusercontent.com/General74110/QuantumultX/main/Adblock.js
+https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/Adblock.js
 
 YouTube
-https://raw.githubusercontent.com/General74110/QuantumultX/main/YouTube.conf
+https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/YouTube.conf
 
 解锁Toktik锁区
-https://raw.githubusercontent.com/General74110/QuantumultX/main/TikTokJP.sgmodule(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
+https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/TikTokJP.sgmodule(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
 
 //分流
 
 维基百科
-https://raw.githubusercontent.com/General74110/QuantumultX/main/WiKipedia.list
+https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/WiKipedia.list
 
 去广告
-https://raw.githubusercontent.com/General74110/QuantumultX/main/Adrule.list
+https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/Adrule.list
 
 
 ## 免责声明：
