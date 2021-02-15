@@ -1,16 +1,16 @@
-QuantumultX 仅供墙内使用
+## QuantumultX 仅供墙内使用
 
-            地                        恶
+##            地                        恶
             狱                        魔
             空                        在
             荡                        人
             荡                        间               
 
-## 图标:
+* 图标:
 
 * [远程图标](https://github.com/General74110/PNG)
 
-## 重写:
+* 重写:
 
 * [京东淘宝比价](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/Price.conf)
 
@@ -20,7 +20,7 @@ QuantumultX 仅供墙内使用
 
 * [解锁Toktik锁区](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/TikTokJP.sgmodule)(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
 
-## 分流:
+* 分流:
 
 * [维基百科](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/WiKipedia.list)
 
