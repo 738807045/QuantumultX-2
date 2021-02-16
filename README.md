@@ -20,6 +20,8 @@
 
 * [解锁Toktik锁区](https://raw.githubusercontent.com/General74110/QuantumultX/main/TikTokJP.sgmodule)(!请使用解析器!目前已知韩国KR,英国UK,美国US,日本JP,自行替换)
 
+* [GitHub加速](https://cdn.jsdelivr.net/gh/General74110/QuantumultX@main/GithubCDN.conf)
+
 * 分流:
 
 * [维基百科](https://raw.githubusercontent.com/General74110/QuantumultX/main/WiKipedia.list)
