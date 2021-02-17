@@ -1,5 +1,0 @@
-#爱奇艺去广告
-host, notice.ppstream.com, reject
-host, api.cupid.iqiyi.com, reject
-host, t7z.cupid.iqiyi.com, reject
-host, list3.ppstream.com.iqiyi.com, reject
