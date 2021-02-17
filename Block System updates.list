@@ -1,6 +1,18 @@
 #屏蔽系统更新
-host, ns.itunes.apple.com, 屏蔽系统更新
-host, appldnld.apple.com, 屏蔽系统更新
-host, mesu.apple.com, 屏蔽系统更新
-host, xp.apple.com, 屏蔽系统更新
-host, gdmf.apple.com, 屏蔽系统更新
+HOST,ns.itunes.apple.com,屏蔽系统更新
+HOST,updates-http.cdn-apple.com,屏蔽系统更新
+HOST,updates.cdn-apple.com,屏蔽系统更新
+HOST,xp.apple.com,屏蔽系统更新
+HOST-SUFFIX,appldnld-lb.apple.com.akadns.net,屏蔽系统更新
+HOST-SUFFIX,appldnld.apple.com,屏蔽系统更新
+HOST-SUFFIX,appldnld.apple.com.akadns.net,屏蔽系统更新
+HOST-SUFFIX,appldnld.g.aaplimg.com,屏蔽系统更新
+HOST-SUFFIX,gdmf.apple.com,屏蔽系统更新
+HOST-SUFFIX,gdmf.apple.com.akadns.net,屏蔽系统更新
+HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,屏蔽系统更新
+HOST-SUFFIX,mesu-cdn.origin-apple.com.akadns.net,屏蔽系统更新
+HOST-SUFFIX,mesu.apple.com,屏蔽系统更新
+HOST-SUFFIX,mesu.g.aaplimg.com,屏蔽系统更新
+HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,屏蔽系统更新
+HOST-SUFFIX,ocsp.apple.com,屏蔽系统更新
+HOST-SUFFIX,ocsp.g.aaplimg.com,屏蔽系统更新
